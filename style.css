@@ -1,0 +1,10 @@
+#font {
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        background-color:grey;
+        font-weight: bolder;
+        color: darkred;
+
+}
+h1{
+    font-stretch: expanded;
+}
